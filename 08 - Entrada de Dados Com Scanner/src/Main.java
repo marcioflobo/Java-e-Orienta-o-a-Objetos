@@ -11,7 +11,7 @@ public class Main {
         double x = in.nextDouble();
         System.out.println("Informe o valor de Y");
         double y = in.nextDouble();
-        System.out.println("A Soma de X = " + x + "e Y = " + y + " é igural a : " + (x + y));
+        System.out.println("A Soma de X = " + x + "e Y = " + y + " é igual a : " + (x + y));
 
     }
 
