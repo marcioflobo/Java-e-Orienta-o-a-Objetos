@@ -16,3 +16,5 @@ Hello World/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar
 *.properties
 *.mf
 01 - Sequencias de Scape/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar
+/02 - Variáveis/nbproject/private/
+/02 - Variáveis/build/
